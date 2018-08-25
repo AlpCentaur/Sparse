@@ -1,2 +1,1 @@
-# Sparse 
-# Sparse
+# Class of Sparse Vectors
